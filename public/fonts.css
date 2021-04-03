@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Eastsiders';
+  src: url('./fonts/EastsiderSans.eot');
+  src: url('./fonts/EastsiderSans.woff2') format('woff2'),
+    url('./fonts/EastsiderSans.woff') format('woff'),
+    url('./fonts/EastsiderSans.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'MillionDreams';
+  src: url('./fonts/MillionDreams-Regular.eot');
+  src: url('./fonts/MillionDreams-Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('./fonts/MillionDreams-Regular.woff2') format('woff2'),
+    url('./fonts/MillionDreams-Regular.woff') format('woff'),
+    url('./fonts/MillionDreams-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./fonts/Montserrat-Light.eot');
+  src: url('./fonts/Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Montserrat-Light.woff2') format('woff2'),
+    url('./fonts/Montserrat-Light.woff') format('woff'),
+    url('./fonts/Montserrat-Light.ttf') format('truetype');
+  font-weight: 400;
+}
