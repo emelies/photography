@@ -98,3 +98,7 @@ p {
   opacity: 1;
   filter: alpha(opacity=100);
 }
+
+.build {
+  font-size: 16px;
+}
